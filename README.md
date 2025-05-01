@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>A creator from INDIA</b><br>
+  <b>A Creator From INDIA</b><br>
   🌱 I’m currently learning <b>EMOTIONAL INTELLIGENCE</b> and <b>DATABASE MANAGEMENT</b><br>
   🧠 INTP; Opensource; Arch Linux user
 </p>
@@ -15,8 +15,8 @@
 ## 📊 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tharun242005&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharun242005&layout=compact&theme=radical" alt="Top Languages" width="300"/>
 </p>
 
 ---
@@ -29,6 +29,10 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
   <!-- Add more badges as needed -->
 </p>
 
