@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tharun242005&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharun242005&layout=compact&theme=radical" alt="Top Languages PYTHON" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharun242005&layout=compact&theme=radical" alt="Top Languages" width="300"/>
 </p>
 
 ---
